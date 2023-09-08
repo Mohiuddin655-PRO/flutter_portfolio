@@ -1,2 +1,2 @@
 # flutter_portfolio
-This is my personal fportfolio app.
+This is my personal portfolio app.
